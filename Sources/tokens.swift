@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Fri, 14 Apr 2023 23:54:34 GMT
+// Generated on Tue, 18 Apr 2023 16:24:56 GMT
 
 
 import UIKit
@@ -54,6 +54,21 @@ public enum DialtoneTokens {
     public static let dtActionColorForegroundMutedActive = UIColor(red: 0.227, green: 0.227, blue: 0.227, alpha: 1)
     public static let dtActionColorForegroundMutedDefault = UIColor(red: 0.227, green: 0.227, blue: 0.227, alpha: 1)
     public static let dtActionColorForegroundMutedHover = UIColor(red: 0.227, green: 0.227, blue: 0.227, alpha: 1)
+    public static let dtBadgeColorBackgroundAi = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 1)
+    public static let dtBadgeColorBackgroundBulletin = UIColor(red: 0.486, green: 0.322, blue: 1.000, alpha: 1)
+    public static let dtBadgeColorBackgroundCritical = UIColor(red: 1.000, green: 0.898, blue: 0.902, alpha: 1)
+    public static let dtBadgeColorBackgroundDefault = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 0.09019607843137255)
+    public static let dtBadgeColorBackgroundInfo = UIColor(red: 0.918, green: 0.949, blue: 0.980, alpha: 1)
+    public static let dtBadgeColorBackgroundSuccess = UIColor(red: 0.929, green: 0.976, blue: 0.922, alpha: 1)
+    public static let dtBadgeColorBackgroundWarning = UIColor(red: 1.000, green: 0.957, blue: 0.800, alpha: 1)
+    public static let dtBadgeColorForegroundBulletin = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
+    public static let dtBadgeColorForegroundDefault = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 1)
+    public static let dtCheckboxColorBackgroundChecked = UIColor(red: 0.486, green: 0.322, blue: 1.000, alpha: 1)
+    public static let dtCheckboxColorBorderChecked = UIColor(red: 0.486, green: 0.322, blue: 1.000, alpha: 1)
+    public static let dtCheckboxColorBorderUnchecked = UIColor(red: 0.667, green: 0.667, blue: 0.667, alpha: 1)
+    public static let dtCheckboxSizeHeight = CGFloat(16.00)
+    public static let dtCheckboxSizeRadius = CGFloat(4.00)
+    public static let dtCheckboxSizeWidth = CGFloat(16.00)
     public static let dtColorBlack100 = UIColor(red: 0.976, green: 0.976, blue: 0.976, alpha: 1)
     public static let dtColorBlack200 = UIColor(red: 0.914, green: 0.914, blue: 0.914, alpha: 1)
     public static let dtColorBlack300 = UIColor(red: 0.824, green: 0.824, blue: 0.824, alpha: 1)
@@ -240,6 +255,22 @@ public enum DialtoneTokens {
     public static let dtFontWeightMedium = 500
     public static let dtFontWeightNormal = 400
     public static let dtFontWeightSemiBold = 600
+    public static let dtIconSize100 = CGFloat(12.00)
+    public static let dtIconSize200 = CGFloat(14.00)
+    public static let dtIconSize300 = CGFloat(18.00)
+    public static let dtIconSize400 = CGFloat(20.00)
+    public static let dtIconSize500 = CGFloat(24.00)
+    public static let dtIconSize600 = CGFloat(32.00)
+    public static let dtIconSize700 = CGFloat(38.00)
+    public static let dtIconSize800 = CGFloat(48.00)
+    public static let dtIconSizeBorder100 = CGFloat(1.00)
+    public static let dtIconSizeBorder200 = CGFloat(1.25)
+    public static let dtIconSizeBorder300 = CGFloat(1.50)
+    public static let dtIconSizeBorder400 = CGFloat(1.75)
+    public static let dtIconSizeBorder500 = CGFloat(1.75)
+    public static let dtIconSizeBorder600 = CGFloat(2.50)
+    public static let dtIconSizeBorder700 = CGFloat(2.75)
+    public static let dtIconSizeBorder800 = CGFloat(3.50)
     public static let dtInputsColorBackgroundDefault = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 0.03137254901960784)
     public static let dtInputsColorBackgroundDisabled = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 0.12156862745098039)
     public static let dtInputsColorBackgroundFocus = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 0.011764705882352941)
@@ -279,6 +310,12 @@ public enum DialtoneTokens {
     public static let dtOpacity700 = CGFloat(0.50)
     public static let dtOpacity800 = CGFloat(0.60)
     public static let dtOpacity900 = CGFloat(0.70)
+    public static let dtRadioColorBackgroundChecked = UIColor(red: 0.486, green: 0.322, blue: 1.000, alpha: 1)
+    public static let dtRadioColorBorderChecked = UIColor(red: 0.486, green: 0.322, blue: 1.000, alpha: 1)
+    public static let dtRadioColorBorderUnchecked = UIColor(red: 0.667, green: 0.667, blue: 0.667, alpha: 1)
+    public static let dtRadioSizeHeight = CGFloat(16.00)
+    public static let dtRadioSizeRadius = CGFloat(50.00)
+    public static let dtRadioSizeWidth = CGFloat(16.00)
     public static let dtShadowCard0Blur = CGFloat(2.00)
     public static let dtShadowCard0Color = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 0.03137254901960784)
     public static let dtShadowCard0Spread = CGFloat(0.00)
