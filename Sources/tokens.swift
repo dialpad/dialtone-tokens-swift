@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 03 May 2023 07:17:35 GMT
+// Generated on Mon, 08 May 2023 18:27:09 GMT
 
 
 import UIKit
@@ -547,7 +547,6 @@ public enum DialtoneTokens {
     public static let dtSpace75Percent = CGFloat(75.00)
     public static let dtSpace760 = CGFloat(102.00)
     public static let dtSpace760Negative = CGFloat(-102.00)
-    public static let dtSpace77 = CGFloat(112.00)
     public static let dtSpace775 = CGFloat(114.00)
     public static let dtSpace775Negative = CGFloat(-114.00)
     public static let dtSpace800 = CGFloat(128.00)
