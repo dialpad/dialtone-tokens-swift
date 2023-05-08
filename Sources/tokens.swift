@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Mon, 08 May 2023 18:27:09 GMT
+// Generated on Mon, 08 May 2023 19:52:07 GMT
 
 
 import UIKit
@@ -340,6 +340,24 @@ public enum DialtoneTokens {
     public static let dtShadowExtraLarge0Type = "dropShadow"
     public static let dtShadowExtraLarge0X = CGFloat(0.00)
     public static let dtShadowExtraLarge0Y = CGFloat(2.00)
+    public static let dtShadowFocus0Blur = CGFloat(0.00)
+    public static let dtShadowFocus0Color = UIColor(red: 0.976, green: 0.976, blue: 0.976, alpha: 1)
+    public static let dtShadowFocus0Spread = CGFloat(1.00)
+    public static let dtShadowFocus0Type = "dropShadow"
+    public static let dtShadowFocus0X = CGFloat(0.00)
+    public static let dtShadowFocus0Y = CGFloat(0.00)
+    public static let dtShadowFocus1Blur = CGFloat(0.00)
+    public static let dtShadowFocus1Color = UIColor(red: 0.318, green: 0.627, blue: 0.996, alpha: 1)
+    public static let dtShadowFocus1Spread = CGFloat(4.00)
+    public static let dtShadowFocus1Type = "dropShadow"
+    public static let dtShadowFocus1X = CGFloat(0.00)
+    public static let dtShadowFocus1Y = CGFloat(0.00)
+    public static let dtShadowFocusInset0Blur = CGFloat(0.00)
+    public static let dtShadowFocusInset0Color = UIColor(red: 0.318, green: 0.627, blue: 0.996, alpha: 1)
+    public static let dtShadowFocusInset0Spread = CGFloat(3.00)
+    public static let dtShadowFocusInset0Type = "innerShadow"
+    public static let dtShadowFocusInset0X = CGFloat(0.00)
+    public static let dtShadowFocusInset0Y = CGFloat(0.00)
     public static let dtShadowLarge0Blur = CGFloat(16.00)
     public static let dtShadowLarge0Color = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 0.30196078431372547)
     public static let dtShadowLarge0Spread = CGFloat(0.00)
@@ -446,6 +464,8 @@ public enum DialtoneTokens {
     public static let dtSize875Negative = CGFloat(-216.00)
     public static let dtSize900 = CGFloat(256.00)
     public static let dtSize900Negative = CGFloat(-256.00)
+    public static let dtSize905 = CGFloat(264.00)
+    public static let dtSize905Negative = CGFloat(-264.00)
     public static let dtSize90Percent = CGFloat(90.00)
     public static let dtSize925 = CGFloat(332.00)
     public static let dtSize925Negative = CGFloat(-332.00)
@@ -560,6 +580,8 @@ public enum DialtoneTokens {
     public static let dtSpace875Negative = CGFloat(-216.00)
     public static let dtSpace900 = CGFloat(256.00)
     public static let dtSpace900Negative = CGFloat(-256.00)
+    public static let dtSpace905 = CGFloat(264.00)
+    public static let dtSpace905Negative = CGFloat(-264.00)
     public static let dtSpace90Percent = CGFloat(90.00)
     public static let dtSpace925 = CGFloat(332.00)
     public static let dtSpace925Negative = CGFloat(-332.00)
