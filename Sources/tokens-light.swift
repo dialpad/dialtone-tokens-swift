@@ -4,15 +4,15 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 11 May 2023 20:35:43 GMT
+// Generated on Mon, 29 May 2023 19:21:18 GMT
 
 
 import UIKit
 
 public enum DialtoneTokensLight {
-    public static let dtActionColorBackgroundBaseActive = UIColor(red: 0.486, green: 0.322, blue: 1.000, alpha: 0.1411764705882353)
+    public static let dtActionColorBackgroundBaseActive = UIColor(red: 0.486, green: 0.322, blue: 1.000, alpha: 0.1803921568627451)
     public static let dtActionColorBackgroundBaseDefault = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 0)
-    public static let dtActionColorBackgroundBaseHover = UIColor(red: 0.486, green: 0.322, blue: 1.000, alpha: 0.0392156862745098)
+    public static let dtActionColorBackgroundBaseHover = UIColor(red: 0.486, green: 0.322, blue: 1.000, alpha: 0.1411764705882353)
     public static let dtActionColorBackgroundBasePrimaryActive = UIColor(red: 0.302, green: 0.078, blue: 1.000, alpha: 1)
     public static let dtActionColorBackgroundBasePrimaryDefault = UIColor(red: 0.486, green: 0.322, blue: 1.000, alpha: 1)
     public static let dtActionColorBackgroundBasePrimaryHover = UIColor(red: 0.396, green: 0.200, blue: 1.000, alpha: 1)
@@ -29,9 +29,9 @@ public enum DialtoneTokensLight {
     public static let dtActionColorBackgroundInvertedPrimaryActive = UIColor(red: 0.882, green: 0.820, blue: 1.000, alpha: 1)
     public static let dtActionColorBackgroundInvertedPrimaryDefault = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
     public static let dtActionColorBackgroundInvertedPrimaryHover = UIColor(red: 0.961, green: 0.941, blue: 1.000, alpha: 1)
-    public static let dtActionColorBackgroundMutedActive = UIColor(red: 0.133, green: 0.133, blue: 0.133, alpha: 0.10196078431372549)
+    public static let dtActionColorBackgroundMutedActive = UIColor(red: 0.133, green: 0.133, blue: 0.133, alpha: 0.1607843137254902)
     public static let dtActionColorBackgroundMutedDefault = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 0)
-    public static let dtActionColorBackgroundMutedHover = UIColor(red: 0.133, green: 0.133, blue: 0.133, alpha: 0.050980392156862744)
+    public static let dtActionColorBackgroundMutedHover = UIColor(red: 0.133, green: 0.133, blue: 0.133, alpha: 0.10196078431372549)
     public static let dtActionColorBorderBaseOutlinedDefault = UIColor(red: 0.486, green: 0.322, blue: 1.000, alpha: 1)
     public static let dtActionColorBorderCriticalOutlinedDefault = UIColor(red: 0.925, green: 0.055, blue: 0.055, alpha: 1)
     public static let dtActionColorBorderInvertedOutlinedDefault = UIColor(red: 0.976, green: 0.976, blue: 0.976, alpha: 1)
@@ -611,6 +611,7 @@ public enum DialtoneTokensLight {
     public static let dtSpace975 = CGFloat(464.00)
     public static let dtSpace975Negative = CGFloat(-464.00)
     public static let dtSpaceBase = CGFloat(8.00)
+    public static let dtThemeColorBase = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 1)
     public static let dtThemeMentionColorBackground = UIColor(red: 0.486, green: 0.322, blue: 1.000, alpha: 1)
     public static let dtThemeMentionColorForeground = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
     public static let dtThemePresenceColorBackgroundAvailable = UIColor(red: 0.102, green: 0.639, blue: 0.251, alpha: 1)
@@ -619,13 +620,28 @@ public enum DialtoneTokensLight {
     public static let dtThemePresenceColorBackgroundOffline = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
     public static let dtThemeSidebarColorBackground = UIColor(red: 0.976, green: 0.976, blue: 0.976, alpha: 1)
     public static let dtThemeSidebarColorForeground = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 1)
-    public static let dtThemeSidebarIconColorForeground = UIColor(red: 0.227, green: 0.227, blue: 0.227, alpha: 1)
+    public static let dtThemeSidebarIconColorForeground = UIColor(red: 0.231, green: 0.231, blue: 0.231, alpha: 1)
     public static let dtThemeSidebarRowColorBackground = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 0)
-    public static let dtThemeSidebarRowColorBackgroundActive = UIColor(red: 0.824, green: 0.824, blue: 0.824, alpha: 1)
-    public static let dtThemeSidebarRowColorBackgroundHover = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 0.10196078431372549)
-    public static let dtThemeSidebarSelectedRowColorBackground = UIColor(red: 0.914, green: 0.914, blue: 0.914, alpha: 1)
+    public static let dtThemeSidebarRowColorBackgroundActive = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 0.1607843137254902)
+    public static let dtThemeSidebarRowColorBackgroundHover = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 0.12156862745098039)
+    public static let dtThemeSidebarSectionColorForeground = UIColor(red: 0.329, green: 0.329, blue: 0.329, alpha: 1)
+    public static let dtThemeSidebarSelectedRowColorBackground = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 0.10196078431372549)
     public static let dtThemeSidebarSelectedRowColorForeground = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 1)
-    public static let dtThemeSidebarStatusColorForeground = UIColor(red: 0.333, green: 0.333, blue: 0.333, alpha: 1)
+    public static let dtThemeSidebarStatusColorForeground = UIColor(red: 0.329, green: 0.329, blue: 0.329, alpha: 1)
+    public static let dtThemeTopbarButtonColorBackground = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 0)
+    public static let dtThemeTopbarButtonColorBackgroundActive = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 0.10196078431372549)
+    public static let dtThemeTopbarButtonColorBackgroundHover = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 0.050980392156862744)
+    public static let dtThemeTopbarButtonColorForeground = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 0.6509803921568628)
+    public static let dtThemeTopbarButtonColorForegroundHover = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 1)
+    public static let dtThemeTopbarColorBackground = UIColor(red: 0.976, green: 0.976, blue: 0.976, alpha: 1)
+    public static let dtThemeTopbarColorForeground = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 0.7490196078431373)
+    public static let dtThemeTopbarFieldColorBackground = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 0.050980392156862744)
+    public static let dtThemeTopbarFieldColorBackgroundHover = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
+    public static let dtThemeTopbarFieldColorBorder = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 0)
+    public static let dtThemeTopbarFieldColorBorderActive = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 0.2)
+    public static let dtThemeTopbarFieldColorBorderHover = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 0.10196078431372549)
+    public static let dtThemeTopbarFieldColorForeground = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 0.5019607843137255)
+    public static let dtThemeTopbarFieldColorForegroundHover = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 0.7490196078431373)
     public static let dtTypographyBodyBaseFontFamily = UIFont.systemFont(ofSize: 15)
     public static let dtTypographyBodyBaseFontSize = CGFloat(15.00)
     public static let dtTypographyBodyBaseFontWeight = 400
