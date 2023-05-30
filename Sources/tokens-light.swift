@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Mon, 29 May 2023 19:21:18 GMT
+// Generated on Tue, 30 May 2023 23:54:29 GMT
 
 
 import UIKit
@@ -448,6 +448,8 @@ public enum DialtoneTokensLight {
     public static let dtSize500Negative = CGFloat(-16.00)
     public static let dtSize50Negative = CGFloat(-0.50)
     public static let dtSize50Percent = CGFloat(50.00)
+    public static let dtSize525 = CGFloat(20.00)
+    public static let dtSize525Negative = CGFloat(-20.00)
     public static let dtSize550 = CGFloat(24.00)
     public static let dtSize550Negative = CGFloat(-24.00)
     public static let dtSize5Percent = CGFloat(5.00)
@@ -564,6 +566,8 @@ public enum DialtoneTokensLight {
     public static let dtSpace500Negative = CGFloat(-16.00)
     public static let dtSpace50Negative = CGFloat(-0.50)
     public static let dtSpace50Percent = CGFloat(50.00)
+    public static let dtSpace525 = CGFloat(20.00)
+    public static let dtSpace525Negative = CGFloat(-20.00)
     public static let dtSpace550 = CGFloat(24.00)
     public static let dtSpace550Negative = CGFloat(-24.00)
     public static let dtSpace5Percent = CGFloat(5.00)
@@ -642,6 +646,10 @@ public enum DialtoneTokensLight {
     public static let dtThemeTopbarFieldColorBorderHover = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 0.10196078431372549)
     public static let dtThemeTopbarFieldColorForeground = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 0.5019607843137255)
     public static let dtThemeTopbarFieldColorForegroundHover = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 0.7490196078431373)
+    public static let dtThemeTopbarProfileColorBackground = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 0.050980392156862744)
+    public static let dtThemeTopbarProfileColorBackgroundActive = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 0.1411764705882353)
+    public static let dtThemeTopbarProfileColorBackgroundHover = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 0.10196078431372549)
+    public static let dtThemeTopbarProfileColorForeground = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 0.7490196078431373)
     public static let dtTypographyBodyBaseFontFamily = UIFont.systemFont(ofSize: 15)
     public static let dtTypographyBodyBaseFontSize = CGFloat(15.00)
     public static let dtTypographyBodyBaseFontWeight = 400
