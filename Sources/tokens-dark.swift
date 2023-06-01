@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 30 May 2023 23:54:29 GMT
+// Generated on Thu, 01 Jun 2023 00:22:55 GMT
 
 
 import UIKit
@@ -769,7 +769,9 @@ public enum DialtoneTokensDark {
     public static let dtThemeTopbarProfileColorBackground = UIColor(red: 0.976, green: 0.976, blue: 0.976, alpha: 0.050980392156862744)
     public static let dtThemeTopbarProfileColorBackgroundActive = UIColor(red: 0.976, green: 0.976, blue: 0.976, alpha: 0.1411764705882353)
     public static let dtThemeTopbarProfileColorBackgroundHover = UIColor(red: 0.976, green: 0.976, blue: 0.976, alpha: 0.10196078431372549)
+    public static let dtThemeTopbarProfileColorBackgroundInverted = UIColor(red: 0.976, green: 0.976, blue: 0.976, alpha: 0.7490196078431373)
     public static let dtThemeTopbarProfileColorForeground = UIColor(red: 0.976, green: 0.976, blue: 0.976, alpha: 0.7490196078431373)
+    public static let dtThemeTopbarProfileColorForegroundInverted = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 0.7490196078431373)
     public static let dtTypographyBodyBaseFontFamily = UIFont.systemFont(ofSize: 15)
     public static let dtTypographyBodyBaseFontSize = CGFloat(15.00)
     public static let dtTypographyBodyBaseFontWeight = 400
