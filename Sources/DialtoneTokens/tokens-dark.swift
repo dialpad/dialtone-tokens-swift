@@ -254,7 +254,7 @@ public enum DialtoneTokensDark {
     public static let dtColorTan500 = UIColor(red: 0.949, green: 0.941, blue: 0.933, alpha: 1)
     public static let dtFontFamilyBody = UIFont.systemFont(ofSize: 15)
     public static let dtFontFamilyExpressive = UIFont.systemFont(ofSize: 15)
-    public static let dtFontFamilyMono = UIFont.monospacedSystemFont(ofSize: 15)
+    public static let dtFontFamilyMono = UIFont.monospacedSystemFont(ofSize: 15, weight: .regular)
     public static let dtFontLineHeight100 = CGFloat(100.00)
     public static let dtFontLineHeight200 = CGFloat(120.00)
     public static let dtFontLineHeight300 = CGFloat(140.00)
@@ -792,12 +792,12 @@ public enum DialtoneTokensDark {
     public static let dtTypographyBodySmallFontWeight = 400
     public static let dtTypographyBodySmallLineHeight = CGFloat(140.00)
     public static let dtTypographyBodySmallTextCase = "none"
-    public static let dtTypographyCodeBaseFontFamily = UIFont.monospacedSystemFont(ofSize: 15)
+    public static let dtTypographyCodeBaseFontFamily = UIFont.monospacedSystemFont(ofSize: 15, weight: .regular)
     public static let dtTypographyCodeBaseFontSize = CGFloat(15.00)
     public static let dtTypographyCodeBaseFontWeight = 400
     public static let dtTypographyCodeBaseLineHeight = CGFloat(120.00)
     public static let dtTypographyCodeBaseTextCase = "none"
-    public static let dtTypographyCodeSmallFontFamily = UIFont.monospacedSystemFont(ofSize: 15)
+    public static let dtTypographyCodeSmallFontFamily = UIFont.monospacedSystemFont(ofSize: 15, weight: .regular)
     public static let dtTypographyCodeSmallFontSize = CGFloat(12.00)
     public static let dtTypographyCodeSmallFontWeight = 400
     public static let dtTypographyCodeSmallLineHeight = CGFloat(120.00)
