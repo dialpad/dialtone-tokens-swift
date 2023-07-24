@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 15 Jun 2023 16:21:07 GMT
+// Generated on Mon, 24 Jul 2023 16:30:53 GMT
 
 
 import UIKit
@@ -216,6 +216,7 @@ public enum DialtoneTokensLight {
     public static let dtColorRed300 = UIColor(red: 0.925, green: 0.055, blue: 0.055, alpha: 1)
     public static let dtColorRed400 = UIColor(red: 0.718, green: 0.043, blue: 0.043, alpha: 1)
     public static let dtColorRed500 = UIColor(red: 0.357, green: 0.020, blue: 0.020, alpha: 1)
+    public static let dtColorSurfaceBackdrop = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 0.7019607843137254)
     public static let dtColorSurfaceBold = UIColor(red: 0.824, green: 0.824, blue: 0.824, alpha: 1)
     public static let dtColorSurfaceBoldOpaque = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 0.1803921568627451)
     public static let dtColorSurfaceContrast = UIColor(red: 0.133, green: 0.133, blue: 0.133, alpha: 1)

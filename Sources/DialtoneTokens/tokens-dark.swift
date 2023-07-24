@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 15 Jun 2023 16:21:07 GMT
+// Generated on Mon, 24 Jul 2023 16:30:54 GMT
 
 
 import UIKit
@@ -23,11 +23,11 @@ public enum DialtoneTokensDark {
     public static let dtActionColorBackgroundCriticalPrimaryDefault = UIColor(red: 0.925, green: 0.055, blue: 0.055, alpha: 1)
     public static let dtActionColorBackgroundCriticalPrimaryHover = UIColor(red: 0.851, green: 0.051, blue: 0.051, alpha: 1)
     public static let dtActionColorBackgroundDisabledDefault = UIColor(red: 0.227, green: 0.227, blue: 0.227, alpha: 1)
-    public static let dtActionColorBackgroundInvertedActive = UIColor(red: 0.102, green: 0.102, blue: 0.102, alpha: 0.30196078431372547)
+    public static let dtActionColorBackgroundInvertedActive = UIColor(red: 0.122, green: 0.122, blue: 0.122, alpha: 0.30196078431372547)
     public static let dtActionColorBackgroundInvertedDefault = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 0)
-    public static let dtActionColorBackgroundInvertedHover = UIColor(red: 0.102, green: 0.102, blue: 0.102, alpha: 0.14901960784313725)
+    public static let dtActionColorBackgroundInvertedHover = UIColor(red: 0.122, green: 0.122, blue: 0.122, alpha: 0.14901960784313725)
     public static let dtActionColorBackgroundInvertedPrimaryActive = UIColor(red: 0.227, green: 0.114, blue: 0.584, alpha: 1)
-    public static let dtActionColorBackgroundInvertedPrimaryDefault = UIColor(red: 0.102, green: 0.102, blue: 0.102, alpha: 1)
+    public static let dtActionColorBackgroundInvertedPrimaryDefault = UIColor(red: 0.122, green: 0.122, blue: 0.122, alpha: 1)
     public static let dtActionColorBackgroundInvertedPrimaryHover = UIColor(red: 0.063, green: 0.008, blue: 0.173, alpha: 1)
     public static let dtActionColorBackgroundMutedActive = UIColor(red: 0.914, green: 0.914, blue: 0.914, alpha: 0.1607843137254902)
     public static let dtActionColorBackgroundMutedDefault = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 0)
@@ -185,7 +185,7 @@ public enum DialtoneTokensDark {
     public static let dtColorLinkMutedHover = UIColor(red: 0.976, green: 0.976, blue: 0.976, alpha: 1)
     public static let dtColorLinkMutedInverted = UIColor(red: 0.149, green: 0.149, blue: 0.149, alpha: 0.6)
     public static let dtColorLinkMutedInvertedHover = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 1)
-    public static let dtColorLinkPrimary = UIColor(red: 0.671, green: 0.494, blue: 1.000, alpha: 1)
+    public static let dtColorLinkPrimary = UIColor(red: 0.718, green: 0.565, blue: 1.000, alpha: 1)
     public static let dtColorLinkPrimaryHover = UIColor(red: 0.855, green: 0.780, blue: 1.000, alpha: 1)
     public static let dtColorLinkPrimaryInverted = UIColor(red: 0.486, green: 0.322, blue: 1.000, alpha: 1)
     public static let dtColorLinkPrimaryInvertedHover = UIColor(red: 0.227, green: 0.114, blue: 0.584, alpha: 1)
@@ -216,6 +216,7 @@ public enum DialtoneTokensDark {
     public static let dtColorRed300 = UIColor(red: 0.925, green: 0.055, blue: 0.055, alpha: 1)
     public static let dtColorRed400 = UIColor(red: 1.000, green: 0.522, blue: 0.522, alpha: 1)
     public static let dtColorRed500 = UIColor(red: 1.000, green: 0.898, blue: 0.902, alpha: 1)
+    public static let dtColorSurfaceBackdrop = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 0.7019607843137254)
     public static let dtColorSurfaceBold = UIColor(red: 0.333, green: 0.333, blue: 0.333, alpha: 1)
     public static let dtColorSurfaceBoldOpaque = UIColor(red: 0.976, green: 0.976, blue: 0.976, alpha: 0.27058823529411763)
     public static let dtColorSurfaceContrast = UIColor(red: 0.976, green: 0.976, blue: 0.976, alpha: 1)
@@ -232,7 +233,7 @@ public enum DialtoneTokensDark {
     public static let dtColorSurfaceInfoSubtleOpaque = UIColor(red: 0.004, green: 0.118, blue: 0.255, alpha: 0.5019607843137255)
     public static let dtColorSurfaceModerate = UIColor(red: 0.227, green: 0.227, blue: 0.227, alpha: 1)
     public static let dtColorSurfaceModerateOpaque = UIColor(red: 0.976, green: 0.976, blue: 0.976, alpha: 0.14901960784313725)
-    public static let dtColorSurfacePrimary = UIColor(red: 0.102, green: 0.102, blue: 0.102, alpha: 1)
+    public static let dtColorSurfacePrimary = UIColor(red: 0.122, green: 0.122, blue: 0.122, alpha: 1)
     public static let dtColorSurfaceSecondary = UIColor(red: 0.149, green: 0.149, blue: 0.149, alpha: 1)
     public static let dtColorSurfaceSecondaryOpaque = UIColor(red: 0.976, green: 0.976, blue: 0.976, alpha: 0.058823529411764705)
     public static let dtColorSurfaceStrong = UIColor(red: 0.667, green: 0.667, blue: 0.667, alpha: 1)
@@ -337,19 +338,19 @@ public enum DialtoneTokensDark {
     public static let dtRadioSizeRadius = CGFloat(50.00)
     public static let dtRadioSizeWidth = CGFloat(16.00)
     public static let dtShadowCard0Blur = CGFloat(2.00)
-    public static let dtShadowCard0Color = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 0.12941176470588237)
+    public static let dtShadowCard0Color = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 0.34901960784313724)
     public static let dtShadowCard0Spread = CGFloat(0.00)
     public static let dtShadowCard0Type = "dropShadow"
     public static let dtShadowCard0X = CGFloat(0.00)
     public static let dtShadowCard0Y = CGFloat(1.00)
     public static let dtShadowCard1Blur = CGFloat(4.00)
-    public static let dtShadowCard1Color = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 0.1411764705882353)
+    public static let dtShadowCard1Color = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 0.45098039215686275)
     public static let dtShadowCard1Spread = CGFloat(0.00)
     public static let dtShadowCard1Type = "dropShadow"
     public static let dtShadowCard1X = CGFloat(0.00)
     public static let dtShadowCard1Y = CGFloat(2.00)
     public static let dtShadowCard2Blur = CGFloat(16.00)
-    public static let dtShadowCard2Color = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 0.1803921568627451)
+    public static let dtShadowCard2Color = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 0.5803921568627451)
     public static let dtShadowCard2Spread = CGFloat(0.00)
     public static let dtShadowCard2Type = "dropShadow"
     public static let dtShadowCard2X = CGFloat(0.00)
@@ -379,7 +380,7 @@ public enum DialtoneTokensDark {
     public static let dtShadowCard6X = CGFloat(0.50)
     public static let dtShadowCard6Y = CGFloat(-0.50)
     public static let dtShadowExtraLarge0Blur = CGFloat(32.00)
-    public static let dtShadowExtraLarge0Color = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 0.4)
+    public static let dtShadowExtraLarge0Color = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 0.5490196078431373)
     public static let dtShadowExtraLarge0Spread = CGFloat(0.00)
     public static let dtShadowExtraLarge0Type = "dropShadow"
     public static let dtShadowExtraLarge0X = CGFloat(0.00)
@@ -427,7 +428,7 @@ public enum DialtoneTokensDark {
     public static let dtShadowFocusInset0X = CGFloat(0.00)
     public static let dtShadowFocusInset0Y = CGFloat(0.00)
     public static let dtShadowLarge0Blur = CGFloat(16.00)
-    public static let dtShadowLarge0Color = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 0.4)
+    public static let dtShadowLarge0Color = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 0.5490196078431373)
     public static let dtShadowLarge0Spread = CGFloat(0.00)
     public static let dtShadowLarge0Type = "dropShadow"
     public static let dtShadowLarge0X = CGFloat(0.00)
@@ -457,7 +458,7 @@ public enum DialtoneTokensDark {
     public static let dtShadowLarge4X = CGFloat(0.50)
     public static let dtShadowLarge4Y = CGFloat(-0.50)
     public static let dtShadowMedium0Blur = CGFloat(8.00)
-    public static let dtShadowMedium0Color = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 0.34901960784313724)
+    public static let dtShadowMedium0Color = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 0.5490196078431373)
     public static let dtShadowMedium0Spread = CGFloat(0.00)
     public static let dtShadowMedium0Type = "dropShadow"
     public static let dtShadowMedium0X = CGFloat(0.00)
@@ -487,7 +488,7 @@ public enum DialtoneTokensDark {
     public static let dtShadowMedium4X = CGFloat(0.50)
     public static let dtShadowMedium4Y = CGFloat(-0.50)
     public static let dtShadowSmall0Blur = CGFloat(4.00)
-    public static let dtShadowSmall0Color = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 0.25098039215686274)
+    public static let dtShadowSmall0Color = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 0.45098039215686275)
     public static let dtShadowSmall0Spread = CGFloat(0.00)
     public static let dtShadowSmall0Type = "dropShadow"
     public static let dtShadowSmall0X = CGFloat(0.00)
