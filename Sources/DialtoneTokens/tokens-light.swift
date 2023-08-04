@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Mon, 24 Jul 2023 16:30:53 GMT
+// Generated on Fri, 04 Aug 2023 17:38:19 GMT
 
 
 import UIKit
@@ -181,9 +181,9 @@ public enum DialtoneTokensLight {
     public static let dtColorLinkDisabledHover = UIColor(red: 0.502, green: 0.502, blue: 0.502, alpha: 1)
     public static let dtColorLinkDisabledInverted = UIColor(red: 0.502, green: 0.502, blue: 0.502, alpha: 1)
     public static let dtColorLinkDisabledInvertedHover = UIColor(red: 0.502, green: 0.502, blue: 0.502, alpha: 1)
-    public static let dtColorLinkMuted = UIColor(red: 0.133, green: 0.133, blue: 0.133, alpha: 0.5019607843137255)
+    public static let dtColorLinkMuted = UIColor(red: 0.227, green: 0.227, blue: 0.227, alpha: 1)
     public static let dtColorLinkMutedHover = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 1)
-    public static let dtColorLinkMutedInverted = UIColor(red: 0.914, green: 0.914, blue: 0.914, alpha: 0.6)
+    public static let dtColorLinkMutedInverted = UIColor(red: 0.914, green: 0.914, blue: 0.914, alpha: 1)
     public static let dtColorLinkMutedInvertedHover = UIColor(red: 0.976, green: 0.976, blue: 0.976, alpha: 1)
     public static let dtColorLinkPrimary = UIColor(red: 0.486, green: 0.322, blue: 1.000, alpha: 1)
     public static let dtColorLinkPrimaryHover = UIColor(red: 0.227, green: 0.114, blue: 0.584, alpha: 1)
@@ -624,15 +624,16 @@ public enum DialtoneTokensLight {
     public static let dtThemePresenceColorBackgroundBusyUnavailable = UIColor(red: 0.925, green: 0.055, blue: 0.055, alpha: 1)
     public static let dtThemePresenceColorBackgroundOffline = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
     public static let dtThemeSidebarColorBackground = UIColor(red: 0.976, green: 0.976, blue: 0.976, alpha: 1)
-    public static let dtThemeSidebarColorForeground = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 1)
-    public static let dtThemeSidebarIconColorForeground = UIColor(red: 0.231, green: 0.231, blue: 0.231, alpha: 1)
+    public static let dtThemeSidebarColorForeground = UIColor(red: 0.227, green: 0.227, blue: 0.227, alpha: 1)
+    public static let dtThemeSidebarColorForegroundUnread = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 1)
+    public static let dtThemeSidebarIconColorForeground = UIColor(red: 0.227, green: 0.227, blue: 0.227, alpha: 1)
     public static let dtThemeSidebarRowColorBackground = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 0)
     public static let dtThemeSidebarRowColorBackgroundActive = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 0.1607843137254902)
     public static let dtThemeSidebarRowColorBackgroundHover = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 0.12156862745098039)
-    public static let dtThemeSidebarSectionColorForeground = UIColor(red: 0.329, green: 0.329, blue: 0.329, alpha: 1)
+    public static let dtThemeSidebarSectionColorForeground = UIColor(red: 0.333, green: 0.333, blue: 0.333, alpha: 1)
     public static let dtThemeSidebarSelectedRowColorBackground = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 0.10196078431372549)
     public static let dtThemeSidebarSelectedRowColorForeground = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 1)
-    public static let dtThemeSidebarStatusColorForeground = UIColor(red: 0.329, green: 0.329, blue: 0.329, alpha: 1)
+    public static let dtThemeSidebarStatusColorForeground = UIColor(red: 0.333, green: 0.333, blue: 0.333, alpha: 1)
     public static let dtThemeTopbarButtonColorBackground = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 0)
     public static let dtThemeTopbarButtonColorBackgroundActive = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 0.10196078431372549)
     public static let dtThemeTopbarButtonColorBackgroundHover = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 0.050980392156862744)
