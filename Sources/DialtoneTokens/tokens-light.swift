@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Fri, 08 Sep 2023 20:38:02 GMT
+// Generated on Wed, 27 Sep 2023 21:13:43 GMT
 
 
 import UIKit
@@ -16,9 +16,9 @@ public enum DialtoneTokensLight {
     public static let dtActionColorBackgroundBasePrimaryActive = UIColor(red: 0.412, green: 0.216, blue: 1.000, alpha: 1)
     public static let dtActionColorBackgroundBasePrimaryDefault = UIColor(red: 0.486, green: 0.322, blue: 1.000, alpha: 1)
     public static let dtActionColorBackgroundBasePrimaryHover = UIColor(red: 0.451, green: 0.267, blue: 1.000, alpha: 1)
-    public static let dtActionColorBackgroundCriticalActive = UIColor(red: 0.925, green: 0.055, blue: 0.055, alpha: 0.09019607843137255)
+    public static let dtActionColorBackgroundCriticalActive = UIColor(red: 0.925, green: 0.055, blue: 0.055, alpha: 0.12156862745098039)
     public static let dtActionColorBackgroundCriticalDefault = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 0)
-    public static let dtActionColorBackgroundCriticalHover = UIColor(red: 0.925, green: 0.055, blue: 0.055, alpha: 0.03137254901960784)
+    public static let dtActionColorBackgroundCriticalHover = UIColor(red: 0.925, green: 0.055, blue: 0.055, alpha: 0.07058823529411765)
     public static let dtActionColorBackgroundCriticalPrimaryActive = UIColor(red: 0.816, green: 0.047, blue: 0.047, alpha: 1)
     public static let dtActionColorBackgroundCriticalPrimaryDefault = UIColor(red: 0.925, green: 0.055, blue: 0.055, alpha: 1)
     public static let dtActionColorBackgroundCriticalPrimaryHover = UIColor(red: 0.851, green: 0.051, blue: 0.051, alpha: 1)
@@ -267,7 +267,6 @@ public enum DialtoneTokensLight {
     public static let dtFontSize300 = CGFloat(19.00)
     public static let dtFontSize400 = CGFloat(27.00)
     public static let dtFontSize500 = CGFloat(38.00)
-    public static let dtFontSizeRoot = CGFloat(10.00)
     public static let dtFontTextCaseCapitalize = "capitalize"
     public static let dtFontTextCaseLowercase = "lowercase"
     public static let dtFontTextCaseNone = "none"
@@ -497,7 +496,6 @@ public enum DialtoneTokensLight {
     public static let dtSize95Percent = CGFloat(95.00)
     public static let dtSize975 = CGFloat(464.00)
     public static let dtSize975Negative = CGFloat(-464.00)
-    public static let dtSizeBase = CGFloat(8.00)
     public static let dtSizeBorder0 = CGFloat(0.00)
     public static let dtSizeBorder100 = CGFloat(1.00)
     public static let dtSizeBorder150 = CGFloat(1.50)
@@ -615,7 +613,6 @@ public enum DialtoneTokensLight {
     public static let dtSpace95Percent = CGFloat(95.00)
     public static let dtSpace975 = CGFloat(464.00)
     public static let dtSpace975Negative = CGFloat(-464.00)
-    public static let dtSpaceBase = CGFloat(8.00)
     public static let dtThemeColorBase = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 1)
     public static let dtThemeMentionColorBackground = UIColor(red: 0.486, green: 0.322, blue: 1.000, alpha: 1)
     public static let dtThemeMentionColorForeground = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)

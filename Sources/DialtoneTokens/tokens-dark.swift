@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Fri, 08 Sep 2023 20:38:02 GMT
+// Generated on Wed, 27 Sep 2023 21:13:43 GMT
 
 
 import UIKit
@@ -267,7 +267,6 @@ public enum DialtoneTokensDark {
     public static let dtFontSize300 = CGFloat(19.00)
     public static let dtFontSize400 = CGFloat(27.00)
     public static let dtFontSize500 = CGFloat(38.00)
-    public static let dtFontSizeRoot = CGFloat(10.00)
     public static let dtFontTextCaseCapitalize = "capitalize"
     public static let dtFontTextCaseLowercase = "lowercase"
     public static let dtFontTextCaseNone = "none"
@@ -617,7 +616,6 @@ public enum DialtoneTokensDark {
     public static let dtSize95Percent = CGFloat(95.00)
     public static let dtSize975 = CGFloat(464.00)
     public static let dtSize975Negative = CGFloat(-464.00)
-    public static let dtSizeBase = CGFloat(8.00)
     public static let dtSizeBorder0 = CGFloat(0.00)
     public static let dtSizeBorder100 = CGFloat(1.00)
     public static let dtSizeBorder150 = CGFloat(1.50)
@@ -735,7 +733,6 @@ public enum DialtoneTokensDark {
     public static let dtSpace95Percent = CGFloat(95.00)
     public static let dtSpace975 = CGFloat(464.00)
     public static let dtSpace975Negative = CGFloat(-464.00)
-    public static let dtSpaceBase = CGFloat(8.00)
     public static let dtThemeColorBase = UIColor(red: 0.902, green: 0.902, blue: 0.902, alpha: 1)
     public static let dtThemeMentionColorBackground = UIColor(red: 0.486, green: 0.322, blue: 1.000, alpha: 1)
     public static let dtThemeMentionColorForeground = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
