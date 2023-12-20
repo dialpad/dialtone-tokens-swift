@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 27 Sep 2023 21:13:43 GMT
+// Generated on Wed, 20 Dec 2023 23:59:07 GMT
 
 
 import UIKit
@@ -32,6 +32,12 @@ public enum DialtoneTokensLight {
     public static let dtActionColorBackgroundMutedActive = UIColor(red: 0.133, green: 0.133, blue: 0.133, alpha: 0.1607843137254902)
     public static let dtActionColorBackgroundMutedDefault = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 0)
     public static let dtActionColorBackgroundMutedHover = UIColor(red: 0.133, green: 0.133, blue: 0.133, alpha: 0.10196078431372549)
+    public static let dtActionColorBackgroundPositiveActive = UIColor(red: 0.102, green: 0.639, blue: 0.255, alpha: 0.0784313725490196)
+    public static let dtActionColorBackgroundPositiveDefault = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 0)
+    public static let dtActionColorBackgroundPositiveHover = UIColor(red: 0.973, green: 0.992, blue: 0.969, alpha: 1)
+    public static let dtActionColorBackgroundPositivePrimaryActive = UIColor(red: 0.086, green: 0.537, blue: 0.212, alpha: 1)
+    public static let dtActionColorBackgroundPositivePrimaryDefault = UIColor(red: 0.102, green: 0.639, blue: 0.251, alpha: 1)
+    public static let dtActionColorBackgroundPositivePrimaryHover = UIColor(red: 0.090, green: 0.576, blue: 0.227, alpha: 1)
     public static let dtActionColorBorderBaseOutlinedDefault = UIColor(red: 0.486, green: 0.322, blue: 1.000, alpha: 1)
     public static let dtActionColorBorderCriticalOutlinedDefault = UIColor(red: 0.925, green: 0.055, blue: 0.055, alpha: 1)
     public static let dtActionColorBorderInvertedOutlinedDefault = UIColor(red: 0.976, green: 0.976, blue: 0.976, alpha: 1)
@@ -54,6 +60,10 @@ public enum DialtoneTokensLight {
     public static let dtActionColorForegroundMutedActive = UIColor(red: 0.227, green: 0.227, blue: 0.227, alpha: 1)
     public static let dtActionColorForegroundMutedDefault = UIColor(red: 0.227, green: 0.227, blue: 0.227, alpha: 1)
     public static let dtActionColorForegroundMutedHover = UIColor(red: 0.227, green: 0.227, blue: 0.227, alpha: 1)
+    public static let dtActionColorForegroundPositiveActive = UIColor(red: 0.082, green: 0.525, blue: 0.208, alpha: 1)
+    public static let dtActionColorForegroundPositiveDefault = UIColor(red: 0.102, green: 0.639, blue: 0.251, alpha: 1)
+    public static let dtActionColorForegroundPositiveHover = UIColor(red: 0.082, green: 0.525, blue: 0.208, alpha: 1)
+    public static let dtActionColorForegroundPositivePrimaryDefault = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
     public static let dtAvatarColorBackground000 = UIColor(red: 0.878, green: 0.878, blue: 0.878, alpha: 1)
     public static let dtAvatarColorBackground100 = UIColor(red: 0.102, green: 0.639, blue: 0.251, alpha: 1)
     public static let dtAvatarColorBackground1000 = UIColor(red: 0.714, green: 0.812, blue: 1.000, alpha: 1)
