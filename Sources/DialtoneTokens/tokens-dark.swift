@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 22 Feb 2024 00:34:27 GMT
+// Generated on Tue, 27 Feb 2024 00:35:45 GMT
 
 
 import UIKit
@@ -642,7 +642,7 @@ public enum DialtoneTokensDark {
     public static let dtSizeRadius500 = CGFloat(16.00)
     public static let dtSizeRadius600 = CGFloat(32.00)
     public static let dtSizeRadiusCircle = CGFloat(50.00)
-    public static let dtSizeRadiusPill = CGFloat(100.00)
+    public static let dtSizeRadiusPill = CGFloat(102.00)
     public static let dtSpace0 = CGFloat(0.00)
     public static let dtSpace0Percent = CGFloat(0.00)
     public static let dtSpace100 = CGFloat(1.00)
