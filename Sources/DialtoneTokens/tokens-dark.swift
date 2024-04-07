@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 28 Mar 2024 22:33:28 GMT
+// Generated on Sun, 07 Apr 2024 20:16:07 GMT
 
 
 import UIKit
@@ -426,13 +426,13 @@ public enum DialtoneTokensDark {
     public static let dtShadowFocus0Y = CGFloat(0.00)
     public static let dtShadowFocus1Blur = CGFloat(0.00)
     public static let dtShadowFocus1Color = UIColor(red: 0.318, green: 0.627, blue: 0.996, alpha: 1)
-    public static let dtShadowFocus1Spread = CGFloat(4.00)
+    public static let dtShadowFocus1Spread = CGFloat(3.00)
     public static let dtShadowFocus1Type = "dropShadow"
     public static let dtShadowFocus1X = CGFloat(0.00)
     public static let dtShadowFocus1Y = CGFloat(0.00)
     public static let dtShadowFocusInset0Blur = CGFloat(0.00)
     public static let dtShadowFocusInset0Color = UIColor(red: 0.318, green: 0.627, blue: 0.996, alpha: 1)
-    public static let dtShadowFocusInset0Spread = CGFloat(3.00)
+    public static let dtShadowFocusInset0Spread = CGFloat(2.00)
     public static let dtShadowFocusInset0Type = "innerShadow"
     public static let dtShadowFocusInset0X = CGFloat(0.00)
     public static let dtShadowFocusInset0Y = CGFloat(0.00)
