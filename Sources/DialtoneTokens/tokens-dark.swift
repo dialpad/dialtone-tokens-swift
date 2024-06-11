@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Fri, 26 Apr 2024 23:50:47 GMT
+// Generated on Tue, 11 Jun 2024 10:09:13 GMT
 
 
 import UIKit
@@ -86,12 +86,16 @@ public enum DialtoneTokensDark {
     public static let dtAvatarColorForeground = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 1)
     public static let dtBadgeColorBackgroundAi = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 1)
     public static let dtBadgeColorBackgroundBulletin = UIColor(red: 0.486, green: 0.322, blue: 1.000, alpha: 1)
+    public static let dtBadgeColorBackgroundBulletinSubtle = UIColor(red: 0.490, green: 0.322, blue: 1.000, alpha: 0.10196078431372549)
     public static let dtBadgeColorBackgroundCritical = UIColor(red: 0.357, green: 0.020, blue: 0.020, alpha: 1)
     public static let dtBadgeColorBackgroundDefault = UIColor(red: 0.902, green: 0.902, blue: 0.902, alpha: 0.14901960784313725)
     public static let dtBadgeColorBackgroundInfo = UIColor(red: 0.004, green: 0.196, blue: 0.427, alpha: 1)
     public static let dtBadgeColorBackgroundSuccess = UIColor(red: 0.071, green: 0.275, blue: 0.125, alpha: 1)
     public static let dtBadgeColorBackgroundWarning = UIColor(red: 0.506, green: 0.314, blue: 0.031, alpha: 1)
+    public static let dtBadgeColorBorderBulletinSubtle = UIColor(red: 0.490, green: 0.322, blue: 1.000, alpha: 0.5019607843137255)
+    public static let dtBadgeColorBorderDefault = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 0.1411764705882353)
     public static let dtBadgeColorForegroundBulletin = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
+    public static let dtBadgeColorForegroundBulletinSubtle = UIColor(red: 0.133, green: 0.000, blue: 0.529, alpha: 1)
     public static let dtBadgeColorForegroundDefault = UIColor(red: 0.902, green: 0.902, blue: 0.902, alpha: 1)
     public static let dtCheckboxColorBackgroundChecked = UIColor(red: 0.486, green: 0.322, blue: 1.000, alpha: 1)
     public static let dtCheckboxColorBorderChecked = UIColor(red: 0.486, green: 0.322, blue: 1.000, alpha: 1)
