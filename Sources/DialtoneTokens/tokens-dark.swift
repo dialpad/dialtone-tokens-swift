@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Mon, 01 Jul 2024 14:36:26 GMT
+// Generated on Fri, 12 Jul 2024 19:36:17 GMT
 
 
 import UIKit
@@ -152,6 +152,7 @@ public enum DialtoneTokensDark {
     public static let dtColorBorderWarningStrongInverted = UIColor(red: 0.506, green: 0.314, blue: 0.031, alpha: 1)
     public static let dtColorBorderWarningSubtle = UIColor(red: 0.824, green: 0.561, blue: 0.169, alpha: 1)
     public static let dtColorBorderWarningSubtleInverted = UIColor(red: 1.000, green: 0.859, blue: 0.502, alpha: 1)
+    public static let dtColorBrandGold = UIColor(red: 0.965, green: 0.671, blue: 0.235, alpha: 1)
     public static let dtColorBrandMagenta = UIColor(red: 0.976, green: 0.000, blue: 0.557, alpha: 1)
     public static let dtColorBrandPurple = UIColor(red: 0.486, green: 0.322, blue: 1.000, alpha: 1)
     public static let dtColorForegroundCritical = UIColor(red: 1.000, green: 0.522, blue: 0.522, alpha: 1)
