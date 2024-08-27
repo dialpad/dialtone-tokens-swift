@@ -40,7 +40,7 @@ public enum DialtoneTokensExpressiveSmDark {
     public static let dtActionColorBorderBaseOutlinedDefault = UIColor(red: 0.671, green: 0.494, blue: 1.000, alpha: 1)
     public static let dtActionColorBorderCriticalOutlinedDefault = UIColor(red: 1.000, green: 0.522, blue: 0.522, alpha: 1)
     public static let dtActionColorBorderInvertedOutlinedDefault = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 1)
-    public static let dtActionColorBorderMutedOutlinedDefault = UIColor(red: 0.667, green: 0.667, blue: 0.667, alpha: 1)
+    public static let dtActionColorBorderMutedOutlinedDefault = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
     public static let dtActionColorForegroundBaseActive = UIColor(red: 0.671, green: 0.494, blue: 1.000, alpha: 1)
     public static let dtActionColorForegroundBaseDefault = UIColor(red: 0.671, green: 0.494, blue: 1.000, alpha: 1)
     public static let dtActionColorForegroundBaseHover = UIColor(red: 0.671, green: 0.494, blue: 1.000, alpha: 1)
