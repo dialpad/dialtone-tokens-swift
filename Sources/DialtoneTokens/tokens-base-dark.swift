@@ -388,6 +388,7 @@ public enum DialtoneTokensBaseDark {
     public static let dtSizeRadius200 = CGFloat(2.00)
     public static let dtSizeRadius300 = CGFloat(4.00)
     public static let dtSizeRadius400 = CGFloat(8.00)
+    public static let dtSizeRadius450 = CGFloat(12.00)
     public static let dtSizeRadius500 = CGFloat(16.00)
     public static let dtSizeRadius600 = CGFloat(32.00)
     public static let dtSizeRadiusCircle = CGFloat(50.00)
