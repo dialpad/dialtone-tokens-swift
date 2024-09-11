@@ -74,6 +74,7 @@ public enum DialtoneTokensBaseLight {
     public static let dtFontSize300 = CGFloat(10.00) * 1.9
     public static let dtFontSize400 = CGFloat(10.00) * 2.7
     public static let dtFontSize500 = CGFloat(10.00) * 3.8
+    public static let dtFontSizeRoot = CGFloat(10.00)
     public static let dtFontTextCaseCapitalize = "capitalize"
     public static let dtFontTextCaseLowercase = "lowercase"
     public static let dtFontTextCaseNone = "none"
@@ -256,6 +257,7 @@ public enum DialtoneTokensBaseLight {
     public static let dtSize95Percent = CGFloat(95.00)
     public static let dtSize975 = CGFloat(464.00)
     public static let dtSize975Negative = CGFloat(-464.00)
+    public static let dtSizeBase = CGFloat(10.00) * .8
     public static let dtSizeBorder0 = CGFloat(0.00)
     public static let dtSizeBorder100 = CGFloat(1.00)
     public static let dtSizeBorder150 = CGFloat(1.50)
@@ -373,4 +375,5 @@ public enum DialtoneTokensBaseLight {
     public static let dtSpace95Percent = CGFloat(95.00)
     public static let dtSpace975 = CGFloat(464.00)
     public static let dtSpace975Negative = CGFloat(-464.00)
+    public static let dtSpaceBase = CGFloat(10.00) * .8
 }
