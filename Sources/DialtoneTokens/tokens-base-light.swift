@@ -61,7 +61,7 @@ public enum DialtoneTokensBaseLight {
     public static let dtColorTan400 = UIColor(red: 0.247, green: 0.239, blue: 0.235, alpha: 1)
     public static let dtColorTan500 = UIColor(red: 0.071, green: 0.071, blue: 0.071, alpha: 1)
     public static let dtFontFamilyBody = UIFont.systemFont(ofSize: 15)
-    public static let dtFontFamilyExpressive = Archivo, UIFont.systemFont(ofSize: 15)
+    public static let dtFontFamilyExpressive = UIFont.systemFont(ofSize: 15)
     public static let dtFontFamilyMono = UIFont.monospacedSystemFont(ofSize: 15, weight: .regular)
     public static let dtFontLineHeight100 = CGFloat(100.00)
     public static let dtFontLineHeight200 = CGFloat(120.00)
@@ -140,7 +140,7 @@ public enum DialtoneTokensBaseLight {
     public static let dtShadowFocusInsetSpread = CGFloat(2.00)
     public static let dtShadowFocusInsetType = "innerShadow"
     public static let dtShadowLargeBlur = CGFloat(16.00)
-    public static let dtShadowLargeColor = rgba(UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 1), 0.3)
+    public static let dtShadowLargeColor = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 0.30196078431372547)
     public static let dtShadowLargeOffsetX = CGFloat(0.00)
     public static let dtShadowLargeOffsetY = CGFloat(2.00)
     public static let dtShadowLargeSpread = CGFloat(0.00)
@@ -257,7 +257,7 @@ public enum DialtoneTokensBaseLight {
     public static let dtSize95Percent = CGFloat(95.00)
     public static let dtSize975 = CGFloat(464.00)
     public static let dtSize975Negative = CGFloat(-464.00)
-    public static let dtSizeBase = CGFloat(10.00) * .8
+    public static let dtSizeBase = CGFloat(10.00) * 0.8
     public static let dtSizeBorder0 = CGFloat(0.00)
     public static let dtSizeBorder100 = CGFloat(1.00)
     public static let dtSizeBorder150 = CGFloat(1.50)
@@ -375,5 +375,5 @@ public enum DialtoneTokensBaseLight {
     public static let dtSpace95Percent = CGFloat(95.00)
     public static let dtSpace975 = CGFloat(464.00)
     public static let dtSpace975Negative = CGFloat(-464.00)
-    public static let dtSpaceBase = CGFloat(10.00) * .8
+    public static let dtSpaceBase = CGFloat(10.00) * 0.8
 }
