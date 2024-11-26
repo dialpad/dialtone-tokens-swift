@@ -283,7 +283,7 @@ public enum DialtoneTokensExpressiveSmDark {
     public static let dtThemeMentionColorForegroundStrong = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 1)
     public static let dtThemePresenceColorBackgroundAvailable = UIColor(red: 0.690, green: 1.000, blue: 0.639, alpha: 1)
     public static let dtThemePresenceColorBackgroundBusy = UIColor(red: 0.965, green: 0.671, blue: 0.235, alpha: 1)
-    public static let dtThemePresenceColorBackgroundBusyUnavailable = UIColor(red: 0.925, green: 0.055, blue: 0.055, alpha: 1)
+    public static let dtThemePresenceColorBackgroundBusyUnavailable = UIColor(red: 1.000, green: 0.522, blue: 0.522, alpha: 1)
     public static let dtThemePresenceColorBackgroundOffline = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
     public static let dtThemeSidebarColorBackground = UIColor(red: 0.149, green: 0.149, blue: 0.149, alpha: 1)
     public static let dtThemeSidebarColorForeground = UIColor(red: 0.761, green: 0.761, blue: 0.761, alpha: 1)
