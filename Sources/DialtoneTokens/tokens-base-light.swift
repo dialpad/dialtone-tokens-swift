@@ -73,7 +73,6 @@ public enum DialtoneTokensBaseLight {
     public static let dtColorGold600 = UIColor(red: 0.506, green: 0.314, blue: 0.031, alpha: 1)
     public static let dtColorGold700 = UIColor(red: 0.325, green: 0.196, blue: 0.016, alpha: 1)
     public static let dtColorGold900 = UIColor(red: 0.173, green: 0.106, blue: 0.008, alpha: 1)
-    public static let dtColorGradientGoldRedMagentaPurple = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 1)
     public static let dtColorGreen100 = UIColor(red: 0.929, green: 0.976, blue: 0.922, alpha: 1)
     public static let dtColorGreen1000 = UIColor(red: 0.000, green: 0.082, blue: 0.051, alpha: 1)
     public static let dtColorGreen200 = UIColor(red: 0.859, green: 1.000, blue: 0.663, alpha: 1)
