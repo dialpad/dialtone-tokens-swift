@@ -513,6 +513,7 @@ public enum DialtoneTokensExpressiveDark {
     public static let dtShellBaseActionColorBackgroundPrimary = UIColor(red: 0.831, green: 0.831, blue: 0.831, alpha: 1)
     public static let dtShellBaseActionColorBackgroundSecondary = UIColor(red: 0.831, green: 0.831, blue: 0.831, alpha: 1)
     public static let dtShellBaseColorAccent = UIColor(red: 0.733, green: 0.651, blue: 0.988, alpha: 1)
+    public static let dtShellBaseColorAction = UIColor(red: 0.831, green: 0.831, blue: 0.831, alpha: 1)
     public static let dtShellBaseColorBorder = UIColor(red: 0.902, green: 0.902, blue: 0.902, alpha: 1)
     public static let dtShellBaseColorForeground = UIColor(red: 0.902, green: 0.902, blue: 0.902, alpha: 1)
     public static let dtShellBaseColorStatusAway = UIColor(red: 0.502, green: 0.502, blue: 0.502, alpha: 1)

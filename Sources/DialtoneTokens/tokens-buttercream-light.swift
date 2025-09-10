@@ -531,6 +531,7 @@ public enum DialtoneTokensButtercreamLight {
     public static let dtShellBaseActionColorBackgroundPrimary = UIColor(red: 0.169, green: 0.294, blue: 0.373, alpha: 1)
     public static let dtShellBaseActionColorBackgroundSecondary = UIColor(red: 0.169, green: 0.294, blue: 0.373, alpha: 1)
     public static let dtShellBaseColorAccent = UIColor(red: 0.957, green: 0.804, blue: 0.043, alpha: 1)
+    public static let dtShellBaseColorAction = UIColor(red: 0.169, green: 0.294, blue: 0.373, alpha: 1)
     public static let dtShellBaseColorBorder = UIColor(red: 0.082, green: 0.141, blue: 0.180, alpha: 1)
     public static let dtShellBaseColorForeground = UIColor(red: 0.027, green: 0.173, blue: 0.165, alpha: 1)
     public static let dtShellBaseColorStatusAway = UIColor(red: 0.502, green: 0.502, blue: 0.502, alpha: 1)

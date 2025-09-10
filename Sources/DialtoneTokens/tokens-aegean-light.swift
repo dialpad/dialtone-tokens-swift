@@ -531,6 +531,7 @@ public enum DialtoneTokensAegeanLight {
     public static let dtShellBaseActionColorBackgroundPrimary = UIColor(red: 0.396, green: 0.118, blue: 0.024, alpha: 1)
     public static let dtShellBaseActionColorBackgroundSecondary = UIColor(red: 0.396, green: 0.118, blue: 0.024, alpha: 1)
     public static let dtShellBaseColorAccent = UIColor(red: 0.133, green: 0.529, blue: 0.510, alpha: 1)
+    public static let dtShellBaseColorAction = UIColor(red: 0.396, green: 0.118, blue: 0.024, alpha: 1)
     public static let dtShellBaseColorBorder = UIColor(red: 0.078, green: 0.227, blue: 0.322, alpha: 1)
     public static let dtShellBaseColorForeground = UIColor(red: 0.063, green: 0.008, blue: 0.173, alpha: 1)
     public static let dtShellBaseColorStatusAway = UIColor(red: 0.502, green: 0.502, blue: 0.502, alpha: 1)
