@@ -626,7 +626,7 @@ public enum DialtoneTokens124Light {
     public static let dtShellBaseColorStatusPositive = UIColor(red: 0.004, green: 0.486, blue: 0.274, alpha: 1)
     public static let dtShellBaseColorStatusWarning = UIColor(red: 0.718, green: 0.396, blue: 0.000, alpha: 1)
     public static let dtShellBaseColorSurface = UIColor(red: 0.953, green: 0.894, blue: 0.871, alpha: 1)
-    public static let dtShellBaseMaterial = steel
+    public static let dtShellBaseMaterial = "steel"
     public static let dtShellColorBorderDefault = UIColor(red: 0.008, green: 0.027, blue: 0.161, alpha: 0.169)
     public static let dtShellColorBorderSubtle = UIColor(red: 0.008, green: 0.027, blue: 0.161, alpha: 0.102)
     public static let dtShellColorForegroundCritical = UIColor(red: 0.663, green: 0.000, blue: 0.141, alpha: 1)
