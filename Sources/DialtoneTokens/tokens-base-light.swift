@@ -216,6 +216,7 @@ public enum DialtoneTokensBaseLight {
     public static let dtFontWeightMedium = 500
     public static let dtFontWeightNormal = 400
     public static let dtFontWeightSemiBold = 600
+    public static let dtLayout0 = CGFloat(8.00) * 8 * 0
     public static let dtLayout0Percent = CGFloat(0.00)
     public static let dtLayout100 = CGFloat(8.00) * 8
     public static let dtLayout1000 = CGFloat(8.00) * 8 * 10
