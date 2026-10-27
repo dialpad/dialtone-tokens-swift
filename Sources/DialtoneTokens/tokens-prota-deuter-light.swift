@@ -137,6 +137,7 @@ public enum DialtoneTokensProtaDeuterLight {
     public static let dtBadgeColorForegroundBulletin = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
     public static let dtBadgeColorForegroundBulletinSubtle = UIColor(red: 0.165, green: 0.067, blue: 0.463, alpha: 1)
     public static let dtBadgeColorForegroundDefault = UIColor(red: 0.055, green: 0.051, blue: 0.043, alpha: 1)
+    public static let dtBadgeColorForegroundPositive = UIColor(red: 0.000, green: 0.052, blue: 0.062, alpha: 1)
     public static let dtBadgeColorForegroundSuccess = UIColor(red: 0.000, green: 0.052, blue: 0.062, alpha: 1)
     public static let dtButtonFontSizeLg = CGFloat(10.00) * 2
     public static let dtButtonFontSizeMd = CGFloat(10.00) * 1.6
